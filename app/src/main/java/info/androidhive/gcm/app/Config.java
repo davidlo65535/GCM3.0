@@ -1,8 +1,6 @@
 package info.androidhive.gcm.app;
 
-/**
- * Created by Lincoln on 05/01/16.
- */
+
 public class Config {
 
     // flag to identify whether to show single line

@@ -9,9 +9,7 @@ import android.view.View;
 
 import info.androidhive.gcm.R;
 
-/**
- * Created by Lincoln on 30/10/15.
- */
+
 public class SimpleDividerItemDecoration extends RecyclerView.ItemDecoration {
     private Drawable mDivider;
 

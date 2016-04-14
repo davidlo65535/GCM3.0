@@ -6,9 +6,7 @@ import android.util.Log;
 
 import info.androidhive.gcm.model.User;
 
-/**
- * Created by Lincoln on 07/01/16.
- */
+
 public class MyPreferenceManager {
 
     private String TAG = MyPreferenceManager.class.getSimpleName();

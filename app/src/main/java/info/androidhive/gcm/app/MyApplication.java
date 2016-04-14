@@ -1,8 +1,5 @@
 package info.androidhive.gcm.app;
 
-/**
- * Created by Lincoln on 14/10/15.
- */
 
 import android.app.Application;
 import android.content.Intent;
@@ -15,9 +12,6 @@ import com.android.volley.toolbox.Volley;
 import info.androidhive.gcm.activity.LoginActivity;
 import info.androidhive.gcm.helper.MyPreferenceManager;
 
-/**
- * Created by Ravi on 13/05/15.
- */
 
 public class MyApplication extends Application {
 
