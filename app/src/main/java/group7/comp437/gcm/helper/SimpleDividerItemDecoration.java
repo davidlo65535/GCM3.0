@@ -1,4 +1,4 @@
-package info.androidhive.gcm.helper;
+package group7.comp437.gcm.helper;
 
 import android.content.Context;
 import android.graphics.Canvas;

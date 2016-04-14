@@ -1,4 +1,4 @@
-package info.androidhive.gcm.gcm;
+package group7.comp437.gcm.gcm;
 
 import android.app.ActivityManager;
 import android.app.Notification;
@@ -30,8 +30,8 @@ import java.util.Date;
 import java.util.List;
 
 import info.androidhive.gcm.R;
-import info.androidhive.gcm.app.Config;
-import info.androidhive.gcm.app.MyApplication;
+import group7.comp437.gcm.app.Config;
+import group7.comp437.gcm.app.MyApplication;
 
 
 

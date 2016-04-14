@@ -1,4 +1,4 @@
-package info.androidhive.gcm.adapter;
+package group7.comp437.gcm.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -16,7 +16,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 import info.androidhive.gcm.R;
-import info.androidhive.gcm.model.ChatRoom;
+import group7.comp437.gcm.model.ChatRoom;
 
 
 public class ChatRoomsAdapter extends RecyclerView.Adapter<ChatRoomsAdapter.ViewHolder> {

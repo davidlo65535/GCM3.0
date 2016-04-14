@@ -11,7 +11,7 @@
         "client_id": "android:group7.comp437",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "info.androidhive.gcm"
+          "package_name": "group7.comp437.gcm"
         }
       },
       "oauth_client": [],

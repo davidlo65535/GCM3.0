@@ -1,4 +1,4 @@
-package info.androidhive.gcm.app;
+package group7.comp437.gcm.app;
 
 
 import android.app.Application;
@@ -9,8 +9,8 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 
-import info.androidhive.gcm.activity.LoginActivity;
-import info.androidhive.gcm.helper.MyPreferenceManager;
+import group7.comp437.gcm.activity.LoginActivity;
+import group7.comp437.gcm.helper.MyPreferenceManager;
 
 
 public class MyApplication extends Application {

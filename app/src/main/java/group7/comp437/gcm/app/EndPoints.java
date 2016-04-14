@@ -1,4 +1,4 @@
-package info.androidhive.gcm.app;
+package group7.comp437.gcm.app;
 
 
 public class EndPoints {

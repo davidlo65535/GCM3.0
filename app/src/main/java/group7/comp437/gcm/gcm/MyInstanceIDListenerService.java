@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package info.androidhive.gcm.gcm;
+package group7.comp437.gcm.gcm;
 
 import android.content.Intent;
 import android.util.Log;

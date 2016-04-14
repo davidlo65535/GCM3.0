@@ -1,10 +1,10 @@
-package info.androidhive.gcm.helper;
+package group7.comp437.gcm.helper;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.util.Log;
 
-import info.androidhive.gcm.model.User;
+import group7.comp437.gcm.model.User;
 
 
 public class MyPreferenceManager {

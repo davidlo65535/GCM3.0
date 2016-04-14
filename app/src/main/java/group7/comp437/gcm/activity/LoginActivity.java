@@ -1,4 +1,4 @@
-package info.androidhive.gcm.activity;
+package group7.comp437.gcm.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -28,9 +28,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 import info.androidhive.gcm.R;
-import info.androidhive.gcm.app.EndPoints;
-import info.androidhive.gcm.app.MyApplication;
-import info.androidhive.gcm.model.User;
+import group7.comp437.gcm.app.EndPoints;
+import group7.comp437.gcm.app.MyApplication;
+import group7.comp437.gcm.model.User;
 
 public class LoginActivity extends AppCompatActivity {
 

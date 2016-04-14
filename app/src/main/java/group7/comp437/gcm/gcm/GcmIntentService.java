@@ -1,4 +1,4 @@
-package info.androidhive.gcm.gcm;
+package group7.comp437.gcm.gcm;
 
 import android.app.IntentService;
 import android.content.Intent;
@@ -25,10 +25,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 import info.androidhive.gcm.R;
-import info.androidhive.gcm.app.Config;
-import info.androidhive.gcm.app.EndPoints;
-import info.androidhive.gcm.app.MyApplication;
-import info.androidhive.gcm.model.User;
+import group7.comp437.gcm.app.Config;
+import group7.comp437.gcm.app.EndPoints;
+import group7.comp437.gcm.app.MyApplication;
+import group7.comp437.gcm.model.User;
 
 public class GcmIntentService extends IntentService {
 

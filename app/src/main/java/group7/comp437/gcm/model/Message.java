@@ -1,4 +1,4 @@
-package info.androidhive.gcm.model;
+package group7.comp437.gcm.model;
 
 import java.io.Serializable;
 

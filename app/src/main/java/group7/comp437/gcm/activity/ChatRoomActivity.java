@@ -1,4 +1,4 @@
-package info.androidhive.gcm.activity;
+package group7.comp437.gcm.activity;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -35,13 +35,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 import info.androidhive.gcm.R;
-import info.androidhive.gcm.adapter.ChatRoomThreadAdapter;
-import info.androidhive.gcm.app.Config;
-import info.androidhive.gcm.app.EndPoints;
-import info.androidhive.gcm.app.MyApplication;
-import info.androidhive.gcm.gcm.NotificationUtils;
-import info.androidhive.gcm.model.Message;
-import info.androidhive.gcm.model.User;
+import group7.comp437.gcm.adapter.ChatRoomThreadAdapter;
+import group7.comp437.gcm.app.Config;
+import group7.comp437.gcm.app.EndPoints;
+import group7.comp437.gcm.app.MyApplication;
+import group7.comp437.gcm.gcm.NotificationUtils;
+import group7.comp437.gcm.model.Message;
+import group7.comp437.gcm.model.User;
 
 public class ChatRoomActivity extends AppCompatActivity {
 

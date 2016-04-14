@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package info.androidhive.gcm.gcm;
+package group7.comp437.gcm.gcm;
 
 import android.content.Context;
 import android.content.Intent;
@@ -29,12 +29,12 @@ import com.google.android.gms.gcm.GcmListenerService;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import info.androidhive.gcm.activity.ChatRoomActivity;
-import info.androidhive.gcm.activity.MainActivity;
-import info.androidhive.gcm.app.Config;
-import info.androidhive.gcm.app.MyApplication;
-import info.androidhive.gcm.model.Message;
-import info.androidhive.gcm.model.User;
+import group7.comp437.gcm.activity.ChatRoomActivity;
+import group7.comp437.gcm.activity.MainActivity;
+import group7.comp437.gcm.app.Config;
+import group7.comp437.gcm.app.MyApplication;
+import group7.comp437.gcm.model.Message;
+import group7.comp437.gcm.model.User;
 
 public class MyGcmPushReceiver extends GcmListenerService {
 
